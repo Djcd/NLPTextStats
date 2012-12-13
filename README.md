@@ -9,3 +9,5 @@ To run this program you need the following components:
 - python-docutils
 
 The login for the admin panel is user test and as password guest
+
+Run the server with ./manage.py runserver
